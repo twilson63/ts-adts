@@ -62,3 +62,5 @@ combines the `Reader` ADT and the `Async` ADT to create a promised based composa
 ---
 
 ## License
+
+see LICENSE
